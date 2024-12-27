@@ -20,7 +20,7 @@
     "@remixproject/plugin-iframe": "^0.3.19",
     "@svgr/webpack": "4.3.3",
     "@typescript-eslint/eslint-plugin": "^2.10.0",
-    "@typescript-eslint/parser": "^2.10.0",
+    "@typescript-eslint/parser": "^8.17.0",
     "async-if-else": "^1.1.1",
     "babel-eslint": "10.1.0",
     "babel-jest": "^24.9.0",
